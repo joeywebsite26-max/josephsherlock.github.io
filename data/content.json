@@ -1,0 +1,476 @@
+{
+  "site": {
+    "name": "Joseph Sherlock",
+    "email": "joseph.sherlock@kcl.ac.uk",
+    "linkedin": "https://www.linkedin.com/in/joseph-sherlock-95576640/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0009-0000-3718-0373",
+    "tagline": "Assistant Professor at King’s College London, behavioral scientist in a public policy school with 12 years’ experience running randomized controlled trials. I focus on using behavioral science as a vehicle to innovate in civic society.",
+    "bio": "Behavioral Scientist with 12 years of experience, specializing in democracy and sustainability, designing and leading large-scale randomized controlled field experiments in complex, real-world settings. Work spans the USA, the UK, and multiple international contexts, partnering with major government bodies, civic organizations, and multilateral institutions. Holds a PhD in Psychological and Behavioural Science from the London School of Economics and Political Science and currently serves as Assistant Professor at the School for Government, King’s College London. Advises the UN Secretary General’s office and teaches short courses for Duke University.",
+    "quote": "Humans haven’t changed much, but the world around us has. I explore how we innovate to help us adapt.",
+    "taglineHead": "Assistant Professor at King’s College London, behavioral scientist in a public policy school with 12 years’ experience running randomized controlled trials. I focus on using behavioral science as a vehicle to",
+    "typewriter": [
+      "democracy.",
+      "sustainability.",
+      "civic trust.",
+      "public policy.",
+      "elections."
+    ],
+    "kclProfile": "https://www.kcl.ac.uk/people/joseph-sherlock",
+    "bannerLead": "I use behavioural science to innovate in"
+  },
+  "engagements": [
+    {
+      "role": "Assistant Professor (Lecturer)",
+      "unit": "School for Government",
+      "org": "King’s College London",
+      "logo": "img/logos/kcl.png"
+    },
+    {
+      "role": "Course Director",
+      "unit": "Sanford School of Public Policy",
+      "org": "Duke University",
+      "logo": "img/logos/duke-dark.png"
+    },
+    {
+      "role": "Behavioural Science Fellow",
+      "unit": "UN Behavioural Science Group",
+      "org": "Executive Office of the Secretary-General",
+      "logo": "img/logos/un-dark.png"
+    }
+  ],
+  "focus": [
+    {
+      "title": "Democracy",
+      "body": "For democracy to survive, we need to innovate. This requires us to experiment. I study how behavioral science can boost civic trust, improve transparency, and make democratic institutions fit for the current world."
+    },
+    {
+      "title": "Sustainability",
+      "body": "My work applies behavioural insights to encourage sustainable action, helping individuals and institutions close the gap between climate intention and behaviour."
+    },
+    {
+      "title": "Method",
+      "body": "As we enter our second decade as an applied behavioural science field, it is time we understood more effectively how we do what we do, and what leads to success as an applied behavioural scientist."
+    }
+  ],
+  "publications": [
+    {
+      "authors": "Hopkins, S.-A. M., Rayburn-Reeves, R. M., Lindemans, J. W., O’Gorman, K. C., Vandewalker, I. A., Luebeck, C. A., & Sherlock, J. J.",
+      "year": "2025",
+      "title": "Politricks: Teaching political tricks and discernment through active and passive tools",
+      "venue": "PNAS Nexus, 4(8), pgaf245",
+      "doi": "https://doi.org/10.1093/pnasnexus/pgaf245",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Vepachedu, S., Nurzenska, A., Lohiniva, A. L., Hudi, A. H., Deku, S., Birungi, J., Greiner, K., Sherlock, J., & Foster, L.",
+      "year": "2024",
+      "title": "Understanding COVID-19 vaccination behaviors and intentions in Ghana: A Behavioral Insights (BI) study",
+      "venue": "PLOS ONE, 19(2), e0292532",
+      "doi": "https://doi.org/10.1371/journal.pone.0292532"
+    },
+    {
+      "authors": "Gargantini, T., Daly, M., Sherlock, J., & Lazebnik, T.",
+      "year": "2022",
+      "title": "Providing safe space for honest mistakes in the public sector is the most important predictor for work engagement after strategic clarity",
+      "venue": "Sustainability, 14, 7051",
+      "doi": "https://doi.org/10.3390/su14127051",
+      "theme": "science"
+    },
+    {
+      "authors": "Gavin, L., McChesney, J., Tong, A., Sherlock, J., Foster, L., & Tomsa, S.",
+      "year": "2022",
+      "title": "Fighting the spread of COVID-19 misinformation in Kyrgyzstan, India, and the United States: How replicable are accuracy nudge interventions?",
+      "venue": "Technology, Mind, and Behavior, 3(3)",
+      "doi": "https://doi.org/10.1037/tmb0000086",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Whillans, A., Sherlock, J., Roberts, J., O’Flaherty, S., Gavin, L., Dykstra, H., & Daly, M.",
+      "year": "2021",
+      "title": "Nudging the commute: Using behaviorally-informed interventions to promote sustainable transportation",
+      "venue": "Behavioral Science & Policy, 7(2), 27–49",
+      "doi": "https://doi.org/10.1177/237946152100700204",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Gold, N., Tan, K., Sherlock, J., Watson, R., & Chadborn, T.",
+      "year": "2021",
+      "title": "Increasing uptake of NHS Health Checks: A randomised controlled trial using GP computer prompts",
+      "venue": "British Journal of General Practice, 71(710), e693–e700",
+      "doi": "https://doi.org/10.3399/BJGP.2020.0887"
+    },
+    {
+      "authors": "Sallis, A., Sherlock, J., Bonus, A., et al.",
+      "year": "2019",
+      "title": "Pre-notification and reminder SMS text messages with behaviorally informed invitation letters to improve uptake of NHS Health Checks: A factorial randomized controlled trial",
+      "venue": "BMC Public Health, 19, 1162",
+      "doi": "https://doi.org/10.1186/s12889-019-7476-8"
+    }
+  ],
+  "chaptersReports": [
+    {
+      "authors": "Sherlock, J.",
+      "year": "2024",
+      "title": "Behavioral Science to Save Democracy",
+      "venue": "In A. Samson (Ed.), The Behavioral Economics Guide 2024 (pp. 13–22)",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Sherlock, J., et al.",
+      "year": "2021",
+      "title": "Fit for Purpose: Using Behavioral Insights to Equip Public Servants for Agenda 2030",
+      "venue": "In UN DESA, Changing Mindsets to Realize the 2030 Agenda for Sustainable Development (Ch. 7, pp. 86–93)",
+      "theme": "science"
+    },
+    {
+      "authors": "Bartmann, N., Hopkins, S.-A., Luebeck, C., & Sherlock, J.",
+      "year": "2023",
+      "title": "Fresh Start Effect in New Movers: A Pilot to Reduce SOV Trips",
+      "venue": "Duke University",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Sherlock, J.",
+      "year": "",
+      "title": "Remote work and people in government",
+      "venue": "OECD Observatory of Public Sector Innovation, Case Study Library (organisational case study)",
+      "theme": "science"
+    },
+    {
+      "authors": "Common Cents Lab",
+      "year": "2016–2019",
+      "title": "Common Cents Lab Annual Report series (2016, 2017, 2018, 2019)",
+      "venue": "Center for Advanced Hindsight, Duke University. Contributing author"
+    }
+  ],
+  "underReview": [
+    {
+      "authors": "Akesson, J., Hahn, R. W., Metcalfe, R., & Sherlock, J.",
+      "title": "Reducing Energy Arrears: Evidence from Four Natural Field Experiments",
+      "status": "Under review at The Review of Economics and Statistics",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Sherlock, J., & Daly, M.",
+      "title": "Surfacing Electoral Processes: Operational Transparency Increases Trust in Elections and Voter Turnout",
+      "status": "Under review at Nature Human Behaviour",
+      "doi": "https://doi.org/10.21203/rs.3.rs-7153108/v1",
+      "doiLabel": "Preprint",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Sherlock, J., Hopkins, S.-A., Daly, M., Powell, O., & Szczesiul, A.",
+      "title": "When the Rubber Meets the Road: Environmental Framing Shifts Minds, but Financial Frames, Pain of Payment and Friction Reduction Shift Behavior",
+      "status": "Under review at Travel Behaviour and Society",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Hopkins, S.-A., Sherlock, J., Martinez Daniel, E., Luebeck, C., Gavin, L., & Daly, M.",
+      "title": "Motivating Change: How Multi-Dimensional Framing and Locus of Control Shape Pro-Environmental Behavior",
+      "status": "Under review",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Sanders, M., Ellingwood, J., & Sherlock, J.",
+      "title": "A Perspective on Recent Meta-Analyses on the Effects of Nudging",
+      "status": "Commentary revised and resubmitted to Behavioural Public Policy",
+      "theme": "science"
+    },
+    {
+      "authors": "Sherlock, J., Vepachedu, S., Daly, M., & Tatman, T. A.",
+      "title": "Beyond Resource Provision: Resource Utilization Predicts Employee Well-Being and Productivity in a Longitudinal Remote Work Field Experiment",
+      "status": "Under review at Applied Psychology: Health and Well-Being",
+      "theme": "science"
+    },
+    {
+      "authors": "Gómez, M., Soto-Mota, P., van Roekel, H., Bowers, J., Tummers, L., Fuenzalida, J., Kristal, A., Arcain, P., Iocco, M. P., Massaro, S., Sherlock, J., Collis, H., & Hein, A.",
+      "title": "Behavioral Interventions for Goal Setting and Social Ties among Remote Public Servants: Insights from a Field Experiment",
+      "status": "Under review at the Journal of Behavioral Public Administration",
+      "theme": "science"
+    },
+    {
+      "authors": "Barkley, A., Martinez Daniel, E., & Sherlock, J.",
+      "title": "Capture without Confusion: Voter Experience with Democracy under Ranked-Choice Voting",
+      "status": "Under review at the Journal of Experimental Political Science",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Sherlock, J., Daly, M., Gavin, L., Szczesiul, A., & Beasley, M.",
+      "title": "Personalized Routing Reduces Driving Alone: Evidence from 2 Field Studies",
+      "status": "Revised and resubmitted to Behavioural Public Policy",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "Sherlock, J., Hopkins, S.-A., & Moore, D.",
+      "title": "Who Are Effective and Trustworthy Messengers for Election-Related Communications? How Local Messengers Impact Effectiveness of Psychological Inoculation",
+      "status": "Submitted to the Journal of Experimental Political Science",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Sherlock, J., & Sanders, M.",
+      "title": "The Future of Research (Field Experiments) in an AI-Driven Landscape",
+      "status": "Under review",
+      "theme": "science"
+    },
+    {
+      "authors": "Sherlock, J.",
+      "title": "Behavioural Science to Strengthen Democracy: Evidence and Opportunities in Election Administration",
+      "status": "New Voices, Behavioural Public Policy",
+      "theme": "democracy"
+    }
+  ],
+  "nearingSubmission": [
+    {
+      "authors": "Sherlock, J., Frech La Rosa, H., Salas, L. M., & Sanders, M.",
+      "title": "Can Taxpayer Choice Raise Voluntary Public Revenue? Evidence from Bogotá",
+      "status": "Nearing submission to the Journal of Public Economics",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Sanders, M., Hirneis, V., Benoit, Y., & Sherlock, J.",
+      "title": "Leading or Following? Three Experiments on Political Leadership and Public Opinion",
+      "status": "Nearing submission to the Journal of Experimental Political Science",
+      "theme": "democracy"
+    },
+    {
+      "authors": "Hopkins, S.-A., Bartman, N., Sherlock, J., Gavin, L., & Guruprasad, S.",
+      "title": "Relocation and the Re-Formation of Car Dependence: Field Evidence from New Movers",
+      "status": "Nearing submission to Behavioural Public Policy, Voices from the Field",
+      "theme": "sustainability"
+    },
+    {
+      "authors": "House, T., McElvaney, T., Sherlock, J., Luetchford, A., Henstock, T., Dewey, E., Ledgard, C., & Berry, D.",
+      "title": "Understanding Responses to NHS Waiting List Validation Messages",
+      "status": "Four-study paper in preparation; intended submission to The BMJ",
+      "theme": "science"
+    },
+    {
+      "authors": "Sherlock, J., Rush, M., & Johnson, M.",
+      "title": "Behavioral Spillovers as a Result of Municipal Food Waste Collection",
+      "status": "In preparation; target journal Nature Sustainability",
+      "theme": "sustainability"
+    }
+  ],
+  "press": [
+    {
+      "outlet": "NPR Marketplace",
+      "headline": "French car commercials will soon urge buyers to reconsider driving",
+      "href": "https://www.marketplace.org/story/2022/01/14/french-car-commercials-will-soon-urge-buyers-to-reconsider-driving",
+      "logo": "img/outlets/marketplace.png"
+    },
+    {
+      "outlet": "Pew",
+      "headline": "North Carolina Leverages State Research Capacity to Improve Government Performance",
+      "href": "https://www.pew.org/en/research-and-analysis/articles/2021/02/18/north-carolina-leverages-state-research-capacity-to-improve-government-performance",
+      "logo": "img/outlets/pew.png"
+    },
+    {
+      "outlet": "Fast Company",
+      "headline": "How Durham is using user-testing to design a compost system that works",
+      "href": "https://www.fastcompany.com/90416857/how-durham-is-using-user-testing-to-design-a-compost-system-that-works",
+      "logo": "img/outlets/fastcompany.png"
+    },
+    {
+      "outlet": "Indy Week",
+      "headline": "The Threat of Climate Change Has Made Composting More Popular Than Ever",
+      "href": "https://indyweek.com/news/northcarolina/climate-change-compost-industry-compostnow/",
+      "logo": "img/outlets/indyweek.png"
+    },
+    {
+      "outlet": "The 9th Street Journal",
+      "headline": "Banana peels and pizza crusts: City pilot turns food scraps into compost",
+      "href": "https://9thstreetjournal.org/2022/07/06/banana-peels-and-pizza-crusts-city-pilot-program-turns-food-scraps-into-compost/",
+      "logo": "img/outlets/ninthstreet.png"
+    },
+    {
+      "outlet": "Spectrum News",
+      "headline": "Angelenos with long commutes are more productive teleworkers",
+      "href": "https://spectrumnews1.com/ca/southern-california/transportation/2021/05/11/angelenos-with-long-commutes-are-more-productive-teleworkers",
+      "logo": "img/outlets/spectrum.png"
+    },
+    {
+      "outlet": "Railway Age",
+      "headline": "FTA Awards $14M in Grants for 25 ‘Innovative Mobility’ Projects",
+      "href": "https://www.railwayage.com/passenger/fta-awards-14m-in-grants-for-25-innovative-mobility-projects/",
+      "logo": "img/outlets/railwayage.png"
+    },
+    {
+      "outlet": "Mass Transit",
+      "headline": "L.A. Metro receives FTA grant to develop a pilot travel rewards program",
+      "href": "https://www.masstransitmag.com/technology/miscellaneous/press-release/21153842/los-angeles-county-metropolitan-transportation-authority-metro-la-metro-receives-fta-grant-to-develop-a-pilot-travel-rewards-program",
+      "logo": "img/outlets/masstransit.png"
+    },
+    {
+      "outlet": "WRAL",
+      "headline": "Durham wins $1 million in Bloomberg’s U.S. Mayors Challenge",
+      "href": "https://www.wral.com/durham-wins-1-million-in-bloomberg-s-u-s-mayors-challenge/17954533/",
+      "logo": "img/outlets/wral.png"
+    },
+    {
+      "outlet": "Smart Cities Dive",
+      "headline": "How Durham, NC’s mayor uses effective behavioral economics",
+      "href": "https://www.smartcitiesdive.com/news/how-durham-ncs-mayor-uses-effective-behavioral-economics/564993/",
+      "logo": "img/outlets/smartcities.png"
+    },
+    {
+      "outlet": "Bloomberg Cities",
+      "headline": "Garbage in, insights out: what every city can learn from Durham’s composting prototype",
+      "href": "https://bloombergcities.medium.com/garbage-in-insights-out-what-every-city-can-learn-from-durhams-composting-prototype-32e4982fc778",
+      "logo": "img/outlets/bloombergcities.png"
+    },
+    {
+      "outlet": "Bloomberg Cities",
+      "headline": "Explainer: What is a behavioral ‘nudge’?",
+      "href": "https://bloombergcities.medium.com/explainer-what-is-a-behavioral-nudge-f32150149deb",
+      "logo": "img/outlets/bloombergcities.png"
+    },
+    {
+      "outlet": "The Chronicle",
+      "headline": "Can Durham curb car usage? With $1 million and help from a Duke center",
+      "href": "https://www.dukechronicle.com/article/2018/11/can-durham-cut-car-usage-with-1-million-bloomberg-grant-mayor-steve-schewel-thinks-so",
+      "logo": "img/outlets/chronicle.png"
+    },
+    {
+      "outlet": "Bloomberg CityLab",
+      "headline": "Durham’s $1 million plan to nudge drivers out of cars",
+      "href": "https://www.bloomberg.com/news/articles/2018-10-30/durham-s-1-million-plan-to-nudge-drivers-out-of-cars",
+      "logo": "img/outlets/bloomberg.png"
+    },
+    {
+      "outlet": "The Aspen Institute",
+      "headline": "Durham’s Plan to ‘Nudge’ Drivers Out of Cars",
+      "href": "https://www.aspeninstitute.org/blog-posts/durhams-plan-to-nudge-drivers-out-of-cars/",
+      "logo": "img/outlets/aspen.png"
+    },
+    {
+      "outlet": "Indy Week",
+      "headline": "Field Guide: Breaking It Down (the one about compost)",
+      "href": "https://indyweek.com/newsletter/field-guide-breaking-it-down-the-one-about-compost/",
+      "logo": "img/outlets/indyweek.png"
+    }
+  ],
+  "videos": [
+    {
+      "id": "eU4TvbJpxKc",
+      "title": "Telework During COVID and Beyond: Leveraging Behavioral Science to Improve Virtual Work",
+      "source": "Eno Center for Transportation"
+    },
+    {
+      "id": "rzvtYv6d5f0",
+      "title": "Behavioural Science and UN 2.0",
+      "source": "UN Innovation Network"
+    },
+    {
+      "id": "7mDcn3nL-nU",
+      "title": "The Psychology Behind Addictive Products",
+      "source": "Soulful Entrepreneur"
+    }
+  ],
+  "featured": [
+    {
+      "title": "Politricks",
+      "kicker": "Published in PNAS Nexus",
+      "theme": "Democracy",
+      "image": "img/projects/politricks.jpg",
+      "href": "https://academic.oup.com/pnasnexus/article/4/8/pgaf245/8228644",
+      "rows": [
+        [
+          "Context",
+          "Misinformation threatens democracy and climate action, eroding trust and amplifying polarization."
+        ],
+        [
+          "Problem",
+          "Few studies compare active (games) and passive (guides) learning in helping citizens discern manipulative content."
+        ],
+        [
+          "Intervention",
+          "We built Politricks, an interactive game, alongside a passive inoculation guide, each teaching three manipulation tactics: emotional storytelling, conformity, and conspiracy theories."
+        ],
+        [
+          "Outcome",
+          "Active and passive tools are comparably effective, scalable strategies for building resilience against misinformation."
+        ]
+      ]
+    },
+    {
+      "title": "Operational Transparency in Elections",
+      "kicker": "Preprint · under review at Nature Human Behaviour",
+      "theme": "Democracy",
+      "image": "img/projects/p2.jpg",
+      "href": "https://www.researchsquare.com/article/rs-7153108/v1",
+      "rows": [
+        [
+          "Context",
+          "Democracies face declining trust fuelled by polarization, misinformation, and hidden election processes."
+        ],
+        [
+          "Problem",
+          "Voters often misinterpret how elections work, leading to scepticism and disengagement."
+        ],
+        [
+          "Intervention",
+          "Applying behavioural insights to increase operational transparency, redesign ballots for usability, and work with election officials to test communication and procedural reforms."
+        ],
+        [
+          "Outcome",
+          "Evidence-based, incremental interventions make democratic systems more understandable and trustworthy, reducing misinformation’s impact and strengthening confidence in elections."
+        ]
+      ]
+    },
+    {
+      "title": "COVID-19 Vaccination in Ghana",
+      "kicker": "Published in PLOS ONE",
+      "theme": "Behavioural insights",
+      "image": "img/projects/p3.jpg",
+      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292532",
+      "rows": [
+        [
+          "Context",
+          "Ghana faced vaccine hesitancy despite availability, with uptake shaped by social and cultural factors."
+        ],
+        [
+          "Problem",
+          "Traditional drivers such as provider recommendations were unexpectedly less predictive; family and religious leaders influenced decisions far more."
+        ],
+        [
+          "Intervention",
+          "A two-part study surveyed 1,494 people and tested behaviourally informed message frames (fear, altruism, social norms) delivered through trusted messengers."
+        ],
+        [
+          "Outcome",
+          "Tailoring strategies to leverage social trust and context-specific nudges can increase vaccine uptake in Ghana."
+        ]
+      ]
+    }
+  ],
+  "ideas": {
+    "thinking": [
+      {
+        "text": "Increasing online voting in Peru"
+      },
+      {
+        "text": "Exploring voluntary tax contributions in Bogotá"
+      },
+      {
+        "text": "Innovating in participatory budgeting in Durham, North Carolina"
+      },
+      {
+        "text": "An upcoming workshop on democracy",
+        "note": "details to follow"
+      }
+    ],
+    "working": [
+      {
+        "text": "Sherlock, J., & Daly, M. Surfacing Electoral Processes: Operational Transparency Increases Trust in Elections and Voter Turnout.",
+        "status": "Under review at Nature Human Behaviour",
+        "href": "https://www.researchsquare.com/article/rs-7153108/v1",
+        "hrefLabel": "Preprint"
+      },
+      {
+        "text": "Sherlock, J., Hopkins, S.-A., Daly, M., Powell, O., & Szczesiul, A. When the Rubber Meets the Road: Environmental Framing Shifts Minds, but Financial Frames, Pain of Payment and Friction Reduction Shift Behavior.",
+        "status": "Under review at Travel Behaviour and Society"
+      }
+    ]
+  }
+}
