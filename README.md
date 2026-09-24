@@ -74,10 +74,12 @@ actually plays a video. Posters are in `img/video/<id>.jpg`.
 
 ## Resume PDF
 
-`assets/joseph-sherlock-cv.pdf` is generated from `../01 Joseph Sherlock CV.docx`.
-The public PDF omits two sections from the source: the Academic Performance Framework
-evidence (internal to a job application) and the Referees block (third-party names and
-email addresses). Drop in your own PDF at that path to override.
+`assets/joseph-sherlock-cv.pdf` is Joseph's own formatted PDF, used as-is (last replaced
+24 September 2026, "Joseph Sherlock CV September 2026.pdf"). To update it, drop the new
+PDF in at that exact path and keep the filename `joseph-sherlock-cv.pdf` so `resume.html`
+still finds it; no HTML or build changes are needed. Before publishing a new version,
+check it for anything that shouldn't go public (referee names/emails, internal-only notes)
+since a public repo makes the file world-readable and its git history.
 
 ## Fonts
 
